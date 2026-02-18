@@ -1,2 +1,2 @@
-# The-Wicker-Man
+# The Wicker Man
 Open Burns Repository
