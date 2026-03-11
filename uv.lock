@@ -162,12 +162,14 @@ source = { virtual = "." }
 dependencies = [
     { name = "pydantic" },
     { name = "python-frontmatter" },
+    { name = "pyyaml" },
 ]
 
 [package.metadata]
 requires-dist = [
     { name = "pydantic", specifier = ">=2.12.5" },
     { name = "python-frontmatter", specifier = ">=1.1.0" },
+    { name = "pyyaml", specifier = ">=6.0.3" },
 ]
 
 [[package]]
