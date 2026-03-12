@@ -1,6 +1,6 @@
 ---
 id: baux-score
-version: "1.0.0"
+version: "0.0.1"
 created_at: "2026-03-11"
 updated_at: "2026-03-11"
 title: "Baux Score"
